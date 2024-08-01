@@ -34,12 +34,12 @@ public class Zstats : MonoBehaviour
             if (HP <= 0) { Destroy(self);EnemySpawn.Enemykilled += 1; EnemySpawn.EnemyCount -= 1; }
         }
 
-        private void OnCollisionEnter2D(Collision2D collision)
+        public void OnCollisionEnter2D(Collision2D collision)
         {
             animator.SetBool("Walk", false);
             animator.SetBool("Attack", true);
         }
-    private void OnCollisionExit2D(Collision2D collision)
+    public void OnCollisionExit2D(Collision2D collision)
     {
         animator.SetBool("Walk", true);
         animator.SetBool("Attack", false);

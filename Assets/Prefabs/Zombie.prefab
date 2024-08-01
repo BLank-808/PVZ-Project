@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4894438129156917789}
   m_Layer: 7
   m_Name: Sprite
-  m_TagString: Untagged
+  m_TagString: Zombie
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -99,7 +99,7 @@ GameObject:
   - component: {fileID: 4086910563015257117}
   m_Layer: 7
   m_Name: Body
-  m_TagString: Untagged
+  m_TagString: Zombie
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -249,10 +249,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 18196d9e1287cd0489bd021b6cbaab21, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HP: 10
+  HP: 50
   Speed: 1
   self: {fileID: 6825970075420797597}
   Parent: {fileID: 6825970075420797597}
+  EnemyTracker: {fileID: 0}
 --- !u!1 &6825970075420797597
 GameObject:
   m_ObjectHideFlags: 0
@@ -265,7 +266,7 @@ GameObject:
   - component: {fileID: 6828512755916990209}
   m_Layer: 7
   m_Name: Zombie
-  m_TagString: Untagged
+  m_TagString: Zombie
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

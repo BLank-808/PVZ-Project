@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|c:\\users\\ajpop\\onedrive\\documents\\github\\pvz-project\\assets\\scripts\\main menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\assets\\scenes\\endlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\endlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\assets\\scripts\\pstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\Assets\\EndLevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\EndLevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\assets\\scripts\\plantspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\plantspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\assets\\scripts\\plantspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\plantspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\assets\\scripts\\zstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\assets\\scripts\\sun tracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sun tracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,36 +43,8 @@
       "RelativeMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy spawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|c:\\users\\ajpop\\onedrive\\documents\\github\\pvz-project\\assets\\scenes\\endlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\endlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\assets\\scripts\\zstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\assets\\scripts\\pstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\ajpop\\onedrive\\documents\\github\\pvz-project\\assets\\endlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\endlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\assets\\scripts\\main menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\assets\\scripts\\plantspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\plantspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\assets\\scripts\\plantspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB60B65F-BA07-5F1A-C248-46F6FCDE8E1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\plantspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,17 +54,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Zstats.cs",
               "DocumentMoniker": "C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\Assets\\Scripts\\Zstats.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Zstats.cs",
               "ToolTip": "C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\Assets\\Scripts\\Zstats.cs",
               "RelativeToolTip": "Assets\\Scripts\\Zstats.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAMwBUAAAAzAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAMwCwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T03:52:02.168Z",
               "IsPinned": true,
@@ -72,46 +72,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "EndLevel.cs",
               "DocumentMoniker": "C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\Assets\\Scenes\\EndLevel.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\EndLevel.cs",
               "ToolTip": "C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\Assets\\Scenes\\EndLevel.cs",
               "RelativeToolTip": "Assets\\Scenes\\EndLevel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABDAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T16:50:25.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Main Menu.cs",
               "DocumentMoniker": "C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\Assets\\Scripts\\Main Menu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Main Menu.cs",
               "ToolTip": "C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\Assets\\Scripts\\Main Menu.cs",
               "RelativeToolTip": "Assets\\Scripts\\Main Menu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T15:54:25.005Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "EndLevel.cs",
               "DocumentMoniker": "C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\Assets\\EndLevel.cs",
               "RelativeDocumentMoniker": "Assets\\EndLevel.cs",
               "ToolTip": "C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\Assets\\EndLevel.cs",
               "RelativeToolTip": "Assets\\EndLevel.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T15:54:11.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T15:54:11.788Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "SunAsset.cs",
               "DocumentMoniker": "C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\Assets\\Scripts\\SunAsset.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SunAsset.cs",
@@ -119,12 +117,11 @@
               "RelativeToolTip": "Assets\\Scripts\\SunAsset.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwBUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T15:09:42.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T15:09:42.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Enemy Spawn.cs",
               "DocumentMoniker": "C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\Assets\\Scripts\\Enemy Spawn.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy Spawn.cs",
@@ -132,12 +129,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Enemy Spawn.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAAwB4AAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T14:52:02.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T14:52:02.328Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Sun Tracker.cs",
               "DocumentMoniker": "C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\Assets\\Scripts\\Sun Tracker.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Sun Tracker.cs",
@@ -145,12 +141,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Sun Tracker.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAwA8AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T10:50:35.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T10:50:35.595Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "PlantSpawner.cs",
               "DocumentMoniker": "C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\Assets\\Scripts\\PlantSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlantSpawner.cs",
@@ -158,11 +153,12 @@
               "RelativeToolTip": "Assets\\Scripts\\PlantSpawner.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T10:30:23.17Z"
+              "WhenOpened": "2024-08-01T10:30:23.17Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Plantspawn.cs",
               "DocumentMoniker": "C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\Assets\\Scripts\\Plantspawn.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Plantspawn.cs",
@@ -170,11 +166,12 @@
               "RelativeToolTip": "Assets\\Scripts\\Plantspawn.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T10:10:40.328Z"
+              "WhenOpened": "2024-08-01T10:10:40.328Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Bullet.cs",
               "DocumentMoniker": "C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\Assets\\Scripts\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
@@ -186,13 +183,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Pstats.cs",
               "DocumentMoniker": "C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\Assets\\Scripts\\Pstats.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Pstats.cs",
               "ToolTip": "C:\\Users\\ajpop\\OneDrive\\Documents\\GitHub\\PVZ-Project\\Assets\\Scripts\\Pstats.cs",
               "RelativeToolTip": "Assets\\Scripts\\Pstats.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAADcAAAAFAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBcAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T05:07:31.321Z",
               "EditorCaption": ""

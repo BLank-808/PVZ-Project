@@ -21,6 +21,7 @@ public class Pstats : MonoBehaviour
         timer = timer / Speed;
         coundown = timer;
         animator = GetComponentInParent<Animator>();
+        Plantspawn=GetComponentInParent<Plantspawn>();
     }
 
     // Update is called once per frame
@@ -37,7 +38,7 @@ public class Pstats : MonoBehaviour
             CanA = false;
 
         }
-        if (HP <= 0) {Plantspawn.freeUP(); Destroy(self);}
+        if (HP <= 0) {Plantspawn.freeUP(); Destroy(gameObject);}
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
