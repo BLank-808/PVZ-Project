@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -121,7 +121,595 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558c3322649494848929c28c15b2d60b
+      internalID: -1898137402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 125
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5827ce5d9fe5f4db8052d737520dc6
+      internalID: -406555512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 125
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c609c0a5503506b4c8df671f81f6ef85
+      internalID: -637409651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 125
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cce35bbbeb7ec4f8efe3046a28dd0a
+      internalID: -1680167931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 125
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0c6dc599401014db596d2dce992248
+      internalID: 1769236363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 125
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0d5b39c1e1b9e468df78ac6c1f13a2
+      internalID: 975883945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 125
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9ad1b00fa409b44b7d403bfeb23d24
+      internalID: -1368184839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c0f09049cca5b458268ca8276969f4
+      internalID: -979002571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 93
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f037753e4f5f04da18b5a9e69ad55b
+      internalID: -1314041920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 93
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea267055bf54fc4ca018f634c03fd96
+      internalID: -1063155030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 93
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a46b429c8fa7d4f940e72b956e6eec
+      internalID: 1968524836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 93
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce9187ea5036da45b6d419e8fd8f6a0
+      internalID: 2000631236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 93
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410e9b9a44f2f9840b6b461392e78226
+      internalID: 1070172953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 93
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e47132e71a68104e9f3f8a0265fa6f0
+      internalID: 1818914648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe09964688f7a246acb9ae7b28ce4d2
+      internalID: 1233345920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 61
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f646b4e5fa7bc4c9f95ca15406d60f
+      internalID: 682084462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 61
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dcb49e5c41085458fdd042cea5d475
+      internalID: -2041831598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 61
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c916565c8bfa34dbf1bb113ca19346
+      internalID: -678016258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 61
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f0af64965f4954bbfba0c8faf92483
+      internalID: 2014174559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 61
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309caceea207d8e45b84a3e2bbf9c3ba
+      internalID: 1319000535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0f5368ee1305c41a307411dac30d38
+      internalID: 122062976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 29
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dc8d62baa6dc84a8f3155080a9a5f4
+      internalID: 2102044110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 29
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f291f482fda043644b2aafce6360f09b
+      internalID: -1756239506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 29
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e50c7d14d3d9534faa9aa86a88c577d
+      internalID: 588000297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 29
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935cebb45c994c245b407bfdcc19d033
+      internalID: 517235421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 29
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f06c758ae734b14cbc1974342888fe1
+      internalID: -1320773158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 29
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1839cae9d0ca54887bf433a3963bcf
+      internalID: 1018903985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallnut-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 29
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448157e9352388a41933470d8478bd33
+      internalID: 157085098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +720,35 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wallnut-Photoroom_0: -1898137402
+      Wallnut-Photoroom_1: -406555512
+      Wallnut-Photoroom_10: 1968524836
+      Wallnut-Photoroom_11: 2000631236
+      Wallnut-Photoroom_12: 1070172953
+      Wallnut-Photoroom_13: 1818914648
+      Wallnut-Photoroom_14: 1233345920
+      Wallnut-Photoroom_15: 682084462
+      Wallnut-Photoroom_16: -2041831598
+      Wallnut-Photoroom_17: -678016258
+      Wallnut-Photoroom_18: 2014174559
+      Wallnut-Photoroom_19: 1319000535
+      Wallnut-Photoroom_2: -637409651
+      Wallnut-Photoroom_20: 122062976
+      Wallnut-Photoroom_21: 2102044110
+      Wallnut-Photoroom_22: -1756239506
+      Wallnut-Photoroom_23: 588000297
+      Wallnut-Photoroom_24: 517235421
+      Wallnut-Photoroom_25: -1320773158
+      Wallnut-Photoroom_26: 1018903985
+      Wallnut-Photoroom_27: 157085098
+      Wallnut-Photoroom_3: -1680167931
+      Wallnut-Photoroom_4: 1769236363
+      Wallnut-Photoroom_5: 975883945
+      Wallnut-Photoroom_6: -1368184839
+      Wallnut-Photoroom_7: -979002571
+      Wallnut-Photoroom_8: -1314041920
+      Wallnut-Photoroom_9: -1063155030
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
