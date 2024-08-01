@@ -198,7 +198,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.7, y: 0.7, z: 1}
+  m_LocalScale: {x: 0.2, y: 0.2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 8601843208705923917}
@@ -244,10 +244,10 @@ BoxCollider2D:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 128
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 72
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -289,10 +289,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6382a2396c71be844963f84c0916be1a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HP: 100
+  HP: 60
   Speed: 0.5
   self: {fileID: 3091282629481373014}
   Parent: {fileID: 3091282629481373014}
   CanA: 1
   preFab: {fileID: 4815999897934890891, guid: 358dba799df4d3a4581578d41f620ca8, type: 3}
   bulletspawn: {fileID: 7052927398979290663}
+  Plantspawn: {fileID: 0}

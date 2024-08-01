@@ -24,6 +24,10 @@ public class Bullet : MonoBehaviour
         _rigidbody2D.velocity =  new Vector2(speed * 1, _rigidbody2D.velocity.y);
         StartCoroutine(Death());
     }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        Destroy(gameObject);
+    }
     private IEnumerator Death()
     {
         yield return new WaitForSeconds(deathTime);

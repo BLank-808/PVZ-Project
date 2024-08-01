@@ -49,12 +49,28 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1145111429078194347, guid: d6ceabdccfbf31a4f8d58fb363d47885, type: 3}
+      propertyPath: Speed
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1145111429078194347, guid: d6ceabdccfbf31a4f8d58fb363d47885, type: 3}
       propertyPath: preFab
       value: 
       objectReference: {fileID: 8111450484867613279, guid: f525c23d92dedc344a9b601b806f3685, type: 3}
+    - target: {fileID: 1406699487910230840, guid: d6ceabdccfbf31a4f8d58fb363d47885, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1406699487910230840, guid: d6ceabdccfbf31a4f8d58fb363d47885, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.2
+      objectReference: {fileID: 0}
     - target: {fileID: 3091282629481373014, guid: d6ceabdccfbf31a4f8d58fb363d47885, type: 3}
       propertyPath: m_Name
       value: Peashooter Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 3091282629481373014, guid: d6ceabdccfbf31a4f8d58fb363d47885, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7052927398979290663, guid: d6ceabdccfbf31a4f8d58fb363d47885, type: 3}
       propertyPath: m_LocalPosition.x
