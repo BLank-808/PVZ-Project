@@ -14,6 +14,7 @@ public class Pstats : MonoBehaviour
     private float coundown = 1f;
     public GameObject preFab;
     public Transform bulletspawn;
+    public Plantspawn Plantspawn;
     // Start is called before the first frame update
     void Start()
     {
@@ -36,7 +37,7 @@ public class Pstats : MonoBehaviour
             CanA = false;
 
         }
-        if (HP <= 0) { Destroy(self); }
+        if (HP <= 0) {Plantspawn.freeUP(); Destroy(self);}
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -45,10 +46,14 @@ public class Pstats : MonoBehaviour
         {
             HP = HP - 10;
         }
+        if (collision.tag== "Respawn")
+        {
+            Plantspawn=collision.GetComponent<Plantspawn>();
+        }
     }
 
-    public void Spawn()
+    public void Spawn(Transform spawnp)
     {
-        InstantiateAsync<GameObject>(Parent, GameObject.Find("Zspawn").transform);
+        Instantiate<GameObject>(Parent, spawnp);
     }
 }

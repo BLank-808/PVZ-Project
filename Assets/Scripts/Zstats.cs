@@ -45,8 +45,8 @@ public class Zstats : MonoBehaviour
         }
         }
 
-    public void Spawn()
+    public void Spawn(Transform spawnp)
     {
-        InstantiateAsync<GameObject>(Parent, GameObject.Find("Zspawn").transform);
+        Instantiate<GameObject>(Parent, spawnp);
     }
-    }
+}
