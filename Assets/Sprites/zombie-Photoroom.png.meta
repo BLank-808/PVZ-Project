@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -121,7 +121,3178 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: zombie-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1200
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d170ea02628054d8ce4d02b2504f9f
+      internalID: -1017051785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1200
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672cc960708e2214e9d8720b0cac7eef
+      internalID: -671480257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1200
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25f1610408ec9f4ba06bc6a7f44970f
+      internalID: -1707040089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1200
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812201961fcd96f46bb58f9e16217656
+      internalID: -735356986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1200
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61db060f87420f14ea1ca041d0e82465
+      internalID: -65013619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1120
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e19a6fecad50074c81249fad6b53bfa
+      internalID: -1520815456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1200
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dd43785240f34488153d22a67beb46
+      internalID: -1111174030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1120
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a8807eb825a274d9d3fcc69916e623
+      internalID: -1717825262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1120
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7040e7d66df54d479bf4cb915dcd8a1
+      internalID: -263317601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1120
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995021c7f905b644aa8546ac52a0674e
+      internalID: 1859123069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1193
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c158c350ab73c014e8a499c2e26a8627
+      internalID: 1632352830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1119
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed27d9a4c827d934e9ec7b0d450abee4
+      internalID: -58388360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1120
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390746469dab2374abd556005e4a59d3
+      internalID: 568253977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1120
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3db9ec53d080240a2a19e30c6b8316
+      internalID: -2048705414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1040
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229fb3b13fd3071458f3f7cfffe83456
+      internalID: -1923150833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1040
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d064ec73b8a114b930870ae1669116
+      internalID: -1523912517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1040
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa06ac5c65477ff42947a8d217d9eca9
+      internalID: 1468179215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1040
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d04196edcec3fd468adeec47177ed7e
+      internalID: -836460427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1040
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142d1fdd74e0128448030489192a865a
+      internalID: -327164065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1040
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da3042b7cef1f94bbcc2d22db5009e3
+      internalID: -1815486763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1040
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713e83ebc432d52418ef1e8ee115d86e
+      internalID: -669822868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1040
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18062c056fb5074bbf3394171aac6a4
+      internalID: -561781465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1040
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a624d38479a964ab178620529774d6
+      internalID: 587320260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 960
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9345c22727cee4e959bd819737a05f
+      internalID: -73571495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 960
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af0f600eb18c2a44b636383c5699f14
+      internalID: 123123771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 960
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5767470afbafa8a4c8d54878d9d1f0bb
+      internalID: -727775953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 960
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeea43c5fac6a540b47aa6e0048c3af
+      internalID: -1634696858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 960
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27a7bc528bb11645a09594f13485f3f
+      internalID: -1789508970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 960
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18357814633260243a1a151b04b018ea
+      internalID: -692860820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 960
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e80056aa08fb6a46ba164c1a4a5fede
+      internalID: 138716889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 960
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22fafefd73804f4a87c80ab58d5a53d
+      internalID: 214693348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 960
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825b5026c266e0d49bde61a48b22f69c
+      internalID: 1469404337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 880
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27397970bf230f4d8488f1a1c211b83
+      internalID: -967660772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 880
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f0aeb0aeee6d14a940e6b82c865503
+      internalID: 325121506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 880
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edf810811a95454ea2fa61479763e18
+      internalID: 396340869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 880
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f057061c9fdd0fc40a52fc200f7b2bcc
+      internalID: 1704902234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 880
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca2b4c5d6d2e6a468704b48a96a4955
+      internalID: 816317087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 880
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85840a69870e43e47a8b5c0d503f64bb
+      internalID: 1085340158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 880
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ba6a87801543947b4d91e2a452b9e9
+      internalID: 1275474438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 880
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29e78f4425c6f24581e2a34e91786f4
+      internalID: 948641308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 880
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595b5fff99d440f409d6957d73e5d3a1
+      internalID: 466415151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 800
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6507a24e22410e447a5c650601cfb9c9
+      internalID: 195790975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 800
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cf716db52ae074b9dd313fd65c5fec
+      internalID: 710673633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 800
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea94800a34c500e449334c982d819626
+      internalID: 767200403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 800
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5a091eddcda884b9be80193efad145
+      internalID: 1467449691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 800
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cf94199534fe14482d81ccf98446dc
+      internalID: 139949420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 800
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2ba13aad623844fb5d169b8780aa91
+      internalID: 485222276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 800
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b32b2a65c9dad4e9c94446adf49c39
+      internalID: 2030697908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 800
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150d4a816d54be94dae5d5cffc23be27
+      internalID: 499092149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 720
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8193e04133ff1343998eb5c3eb8f4e2
+      internalID: 1005468262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 720
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f56c2aeca2a1fe459b67a801dcd737e
+      internalID: 1522916345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 720
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c8fb5bb6bccee4cacd0fa40da2fd15
+      internalID: 1928780596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 720
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c05dd7109b2b0e43bc01380cd6f78b9
+      internalID: -72777852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 720
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cac916b34a4f84296fecac180eebfe
+      internalID: 275328623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 720
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a661dade2e76eb4db8d41ff70942f7d
+      internalID: -1703025443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 720
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87136d64621fa3841bbd938d26fcb37d
+      internalID: -265300919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 720
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea0e2b9b78e40540a5bd39522ba5775
+      internalID: 1649488951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 640
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fc604e3da05904ebd02da6eb4eb69b
+      internalID: -1202050027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 640
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35db6b0651737f14fa72b681281c1ab9
+      internalID: 1476568211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 640
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980526d8d94ad3d4da4545ca705a10fe
+      internalID: 481679014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 640
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e27fd2dc293f44285dde7eaf741d00
+      internalID: 211511263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 640
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ef0f60180f044469dcabdacd7841a2
+      internalID: 486061772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 640
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb4a672038ff164c9fd7db514e9ea68
+      internalID: 1533997241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 640
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3229d981960707479480ecc5dc5ef8d
+      internalID: 1927393797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 640
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6322746304ee1eb498e3c6abd31bf2b7
+      internalID: -2110311650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 640
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6d22bc070718842885cb2e9b369f15
+      internalID: 1351973397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 640
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec14e286e221bcd4989e2a510e25e825
+      internalID: -753802659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 640
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bac35f2e56cf484699f0aaf0deceefd
+      internalID: 1446208912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 640
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ff01d504fedd044beab447812f9f24
+      internalID: -158785550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 640
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23941a1bbb9128468349da21c8ad432
+      internalID: 1361220006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 560
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1741ec07634ab214ba78103bf1182e58
+      internalID: 1013382219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 560
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decd86d4c56aa444ab51600f5c0e8a83
+      internalID: 2121730730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 560
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40972fe32f58fdb499dac584d6fb2f8f
+      internalID: -2139881146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 560
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385d99e96d1e8894581340e18b18bdac
+      internalID: -1428731808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 560
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a973f665627144fa439a3987ac05b1
+      internalID: -40738869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 560
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f08a2523c4f7a408acb2928c6723e7
+      internalID: -890846452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_76
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 560
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04233c90328825441804aea97ffeaed4
+      internalID: 562091193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 560
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0f121b0f84ff740beab2a5277d1f8e
+      internalID: 897623991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_78
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 560
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa419dc1ddbdea41b20582f3a014bcd
+      internalID: 490918898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_79
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 560
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd32ad3c4893d944b18d3cd52033bf7
+      internalID: -733101400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 560
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcabbcbc9068cf3468d94f6ca1d59f46
+      internalID: 732014578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_81
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 560
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97df1257676af574f8039b594382a666
+      internalID: -492526996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_82
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 560
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309833b40ada27b489e06be32589d6e3
+      internalID: -674971723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_83
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 480
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66be6a2f56a77e54b88c273d0d2655bd
+      internalID: -54454236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_84
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 480
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fabe3ad8b7fbb4b941a6393e18b60a
+      internalID: 1884948381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_85
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 480
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176ad03231e40954fb023a03b8a6ae83
+      internalID: -110115362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_86
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 480
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34257bb9e2f067740a65ed7ad3c92834
+      internalID: 2102432684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_87
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 480
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69f2f1c213e3ce44a0e565d29910c31
+      internalID: -1477043306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_88
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 480
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f95435180bd3c42a7a165d9991a8e4
+      internalID: 1249379115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_89
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 480
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27697ea2ea24b454d9b1e5b6b7cafbb2
+      internalID: 53656590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_90
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 480
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae1cc54cb630b349a2a2d1cc3be07a6
+      internalID: 2140851052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_91
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 480
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dafe6290e3f684f9d43fa483fbe60e
+      internalID: -243791658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_92
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 480
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b42e0bd57a1864ebe11a758e0ca4f7
+      internalID: 2087134607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_93
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 480
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb2627c7be370b4a92928d84513cf28
+      internalID: 1051266120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_94
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 480
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2327ffcb1aba56e409ba789507371394
+      internalID: -1038519869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_95
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 480
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b2e8dcee425d747bd5a118ca1dfd27
+      internalID: -1194892203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_96
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 480
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86ab228fd9f1b646b857b62384fa05e
+      internalID: 1777379883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_97
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 480
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280c25ab5b30fec4a9512fbd027dc6a6
+      internalID: -563881595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_98
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 480
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411aa969f326639469ba3fddc511e19d
+      internalID: -546690551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_99
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 480
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8664c437f2f74664d8666c430ab6b936
+      internalID: -624663778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_100
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 480
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fa9eb6302b77d48842cbbd658d058b
+      internalID: 1109535155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_101
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 480
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a6489f2d8e5dc47a2e132d8f7a029a
+      internalID: -1142907995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_102
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 480
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf763671bfac9124d8e2388f6f2fd99f
+      internalID: -1551483821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_103
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 480
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4679b788856e844e9a8d7700368c53e
+      internalID: 1423963816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_104
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 480
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4418f58707c6a3f488b6639f560bc0a2
+      internalID: 719031017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_105
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 480
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691dccb00ebc68349910e63f452ddf7b
+      internalID: 374649127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_106
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 480
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a2341582ee9644f9513c14c34c5afc
+      internalID: -881274451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_107
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 400
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f153bdbd2c2e4e43aa648819f35f935
+      internalID: -1564066762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_108
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 400
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4327e677d6e30fe42ba75b6328c3f083
+      internalID: 354646873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_109
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 320
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808494d700e7d6345b84bd6878468aa9
+      internalID: 412341214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_110
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 320
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd2fc5116ba1a54bb0ce28d1a5e7c9d
+      internalID: 694668862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_111
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 320
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39d60af75361424b89ab77a67507895
+      internalID: -819398158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_112
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 320
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3b4ef450c1c8640aa924e29480ca2c
+      internalID: 451883655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_113
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 320
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88131000756b96840a2dc16fc7c35e7f
+      internalID: -154809717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_114
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 320
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cc0ee4aff0b45478aeec9b238935d0
+      internalID: -237236162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_115
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 320
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ddf0b9a5539004a98dd618f71dacb4
+      internalID: -674478082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_116
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 320
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17085ce98b0a8d74b9fe3ff41000a3ec
+      internalID: -1924679661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_117
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 240
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c3857ee882a3840901e3c5ba121175
+      internalID: 109054037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_118
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 240
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eed36bd8a5cafb4398de1c15ea2b45a
+      internalID: 549768370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_119
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 240
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327ed244f72234344bc75d3adb2fc54d
+      internalID: -18147647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_120
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 240
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6787ac3b5e65a479d69e9f34034fe4
+      internalID: -1767044660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_121
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 240
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b04e1e32f7ec742a8a1d198b440b7a
+      internalID: 2039179712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_122
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 240
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bb0a1e29156a148a25c81f3531d443
+      internalID: -27028330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_123
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 240
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eef8327695abaf46b4fc8ee4a31a372
+      internalID: -553074638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_124
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 240
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9bd1764c1bba5498f8d4dbd94c3bc8
+      internalID: 1947160809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_125
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 240
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d9819903947764788b8e8ee3138f24
+      internalID: 1799027438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_126
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 160
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4faa30c45536f24a8f557fd87297d6a
+      internalID: 23812482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_127
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 160
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8250e7f60c87e84ba73853e436b6d07
+      internalID: -2040522735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_128
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 160
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f8a0e6b1f996547938175de1bfb8ad
+      internalID: -1106901939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_129
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 160
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884ea68a25a43af44b3a48d1429591c1
+      internalID: 895090474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_130
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 160
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3062844a298f0e40bac4349276abe89
+      internalID: 1390850996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_131
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 160
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9447695f69fbb5f45b967158b54ff3a7
+      internalID: -526872687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_132
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 160
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a71de551ddad1942be295f7d04e7ea0
+      internalID: 469629315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_133
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 160
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4636e400da0e949832faa2aeeba75c
+      internalID: -644550547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_134
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 80
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c7e2c96f0ab164e9a070c1c9d9e2d7
+      internalID: 2005009077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_135
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 80
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c6a5b8a08098c479c906efbb77c167
+      internalID: 1376838076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_136
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 80
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cd9b151e215524a8e0084e3c9c56a9
+      internalID: -355126911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_137
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 80
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d723acca8206eb4fa60f6b74e888f5a
+      internalID: 282106516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_138
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 80
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3943d59a658aad34d9e73079a25b14d5
+      internalID: -120835750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_139
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 80
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f58e404ec16cbc45a4f89720e411ca7
+      internalID: -682299459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_140
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 80
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4d27c8055fc0d4bb90cb285362ac5e
+      internalID: -1667318152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_141
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 80
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768382beb3ebde84fbf1b89d6e3d477e
+      internalID: 1009034837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_142
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 80
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7fcfe12d3ea6c4b827d367cf69d3ff
+      internalID: 649401845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_143
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 80
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c75008c7c2635143b011c89332fde2e
+      internalID: -2046694927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_144
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 80
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81119c5d5ee7f16429b25a5d9b3e4cf8
+      internalID: -941370346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_145
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7df5e75faea41949bfc480122ec91f7
+      internalID: 2073551607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_146
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3a0dbd93d6a204881fd55356257a38
+      internalID: -613903803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_147
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff468d33a85a2d24298f55fbc98bfd9a
+      internalID: 1052348247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_148
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690410387cc871649b2004ffdf0b14db
+      internalID: 504627057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_149
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f5476c8e1ba7a45a09a1c6c7d4aa12
+      internalID: 1796904748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie-Photoroom_150
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1164
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0361b16513f08644db2ce9fa0218f6fa
+      internalID: -760617072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +3303,158 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      zombie-Photoroom_0: -1017051785
+      zombie-Photoroom_1: -671480257
+      zombie-Photoroom_10: 1632352830
+      zombie-Photoroom_100: 1109535155
+      zombie-Photoroom_101: -1142907995
+      zombie-Photoroom_102: -1551483821
+      zombie-Photoroom_103: 1423963816
+      zombie-Photoroom_104: 719031017
+      zombie-Photoroom_105: 374649127
+      zombie-Photoroom_106: -881274451
+      zombie-Photoroom_107: -1564066762
+      zombie-Photoroom_108: 354646873
+      zombie-Photoroom_109: 412341214
+      zombie-Photoroom_11: -58388360
+      zombie-Photoroom_110: 694668862
+      zombie-Photoroom_111: -819398158
+      zombie-Photoroom_112: 451883655
+      zombie-Photoroom_113: -154809717
+      zombie-Photoroom_114: -237236162
+      zombie-Photoroom_115: -674478082
+      zombie-Photoroom_116: -1924679661
+      zombie-Photoroom_117: 109054037
+      zombie-Photoroom_118: 549768370
+      zombie-Photoroom_119: -18147647
+      zombie-Photoroom_12: 568253977
+      zombie-Photoroom_120: -1767044660
+      zombie-Photoroom_121: 2039179712
+      zombie-Photoroom_122: -27028330
+      zombie-Photoroom_123: -553074638
+      zombie-Photoroom_124: 1947160809
+      zombie-Photoroom_125: 1799027438
+      zombie-Photoroom_126: 23812482
+      zombie-Photoroom_127: -2040522735
+      zombie-Photoroom_128: -1106901939
+      zombie-Photoroom_129: 895090474
+      zombie-Photoroom_13: -2048705414
+      zombie-Photoroom_130: 1390850996
+      zombie-Photoroom_131: -526872687
+      zombie-Photoroom_132: 469629315
+      zombie-Photoroom_133: -644550547
+      zombie-Photoroom_134: 2005009077
+      zombie-Photoroom_135: 1376838076
+      zombie-Photoroom_136: -355126911
+      zombie-Photoroom_137: 282106516
+      zombie-Photoroom_138: -120835750
+      zombie-Photoroom_139: -682299459
+      zombie-Photoroom_14: -1923150833
+      zombie-Photoroom_140: -1667318152
+      zombie-Photoroom_141: 1009034837
+      zombie-Photoroom_142: 649401845
+      zombie-Photoroom_143: -2046694927
+      zombie-Photoroom_144: -941370346
+      zombie-Photoroom_145: 2073551607
+      zombie-Photoroom_146: -613903803
+      zombie-Photoroom_147: 1052348247
+      zombie-Photoroom_148: 504627057
+      zombie-Photoroom_149: 1796904748
+      zombie-Photoroom_15: -1523912517
+      zombie-Photoroom_150: -760617072
+      zombie-Photoroom_16: 1468179215
+      zombie-Photoroom_17: -836460427
+      zombie-Photoroom_18: -327164065
+      zombie-Photoroom_19: -1815486763
+      zombie-Photoroom_2: -1707040089
+      zombie-Photoroom_20: -669822868
+      zombie-Photoroom_21: -561781465
+      zombie-Photoroom_22: 587320260
+      zombie-Photoroom_23: -73571495
+      zombie-Photoroom_24: 123123771
+      zombie-Photoroom_25: -727775953
+      zombie-Photoroom_26: -1634696858
+      zombie-Photoroom_27: -1789508970
+      zombie-Photoroom_28: -692860820
+      zombie-Photoroom_29: 138716889
+      zombie-Photoroom_3: -735356986
+      zombie-Photoroom_30: 214693348
+      zombie-Photoroom_31: 1469404337
+      zombie-Photoroom_32: -967660772
+      zombie-Photoroom_33: 325121506
+      zombie-Photoroom_34: 396340869
+      zombie-Photoroom_35: 1704902234
+      zombie-Photoroom_36: 816317087
+      zombie-Photoroom_37: 1085340158
+      zombie-Photoroom_38: 1275474438
+      zombie-Photoroom_39: 948641308
+      zombie-Photoroom_4: -65013619
+      zombie-Photoroom_40: 466415151
+      zombie-Photoroom_41: 195790975
+      zombie-Photoroom_42: 710673633
+      zombie-Photoroom_43: 767200403
+      zombie-Photoroom_44: 1467449691
+      zombie-Photoroom_45: 139949420
+      zombie-Photoroom_46: 485222276
+      zombie-Photoroom_47: 2030697908
+      zombie-Photoroom_48: 499092149
+      zombie-Photoroom_49: 1005468262
+      zombie-Photoroom_5: -1520815456
+      zombie-Photoroom_50: 1522916345
+      zombie-Photoroom_51: 1928780596
+      zombie-Photoroom_52: -72777852
+      zombie-Photoroom_53: 275328623
+      zombie-Photoroom_54: -1703025443
+      zombie-Photoroom_55: -265300919
+      zombie-Photoroom_56: 1649488951
+      zombie-Photoroom_57: -1202050027
+      zombie-Photoroom_58: 1476568211
+      zombie-Photoroom_59: 481679014
+      zombie-Photoroom_6: -1111174030
+      zombie-Photoroom_60: 211511263
+      zombie-Photoroom_61: 486061772
+      zombie-Photoroom_62: 1533997241
+      zombie-Photoroom_63: 1927393797
+      zombie-Photoroom_64: -2110311650
+      zombie-Photoroom_65: 1351973397
+      zombie-Photoroom_66: -753802659
+      zombie-Photoroom_67: 1446208912
+      zombie-Photoroom_68: -158785550
+      zombie-Photoroom_69: 1361220006
+      zombie-Photoroom_7: -1717825262
+      zombie-Photoroom_70: 1013382219
+      zombie-Photoroom_71: 2121730730
+      zombie-Photoroom_72: -2139881146
+      zombie-Photoroom_73: -1428731808
+      zombie-Photoroom_74: -40738869
+      zombie-Photoroom_75: -890846452
+      zombie-Photoroom_76: 562091193
+      zombie-Photoroom_77: 897623991
+      zombie-Photoroom_78: 490918898
+      zombie-Photoroom_79: -733101400
+      zombie-Photoroom_8: -263317601
+      zombie-Photoroom_80: 732014578
+      zombie-Photoroom_81: -492526996
+      zombie-Photoroom_82: -674971723
+      zombie-Photoroom_83: -54454236
+      zombie-Photoroom_84: 1884948381
+      zombie-Photoroom_85: -110115362
+      zombie-Photoroom_86: 2102432684
+      zombie-Photoroom_87: -1477043306
+      zombie-Photoroom_88: 1249379115
+      zombie-Photoroom_89: 53656590
+      zombie-Photoroom_9: 1859123069
+      zombie-Photoroom_90: 2140851052
+      zombie-Photoroom_91: -243791658
+      zombie-Photoroom_92: 2087134607
+      zombie-Photoroom_93: 1051266120
+      zombie-Photoroom_94: -1038519869
+      zombie-Photoroom_95: -1194892203
+      zombie-Photoroom_96: 1777379883
+      zombie-Photoroom_97: -563881595
+      zombie-Photoroom_98: -546690551
+      zombie-Photoroom_99: -624663778
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
